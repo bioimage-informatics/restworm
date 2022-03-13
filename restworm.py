@@ -9,7 +9,7 @@ import glob
 
 # Folders
 train_input_folder = "E:\Azuma\Restoration\Data\Training\Input"
-train_gt_folder = "E:\Azuma\Restoration\Data\Training\GroundTruth"
+train_gt_folder = "E:\Azuma\Restoration\Data\Training\Ground_truth"
 test_input_folder = "E:\Azuma\Restoration\Data\Test\Input"
 test_pred_folder = "E:\Azuma\Restoration\Data\Test\Prediction"
 
