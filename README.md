@@ -7,7 +7,8 @@ The folders are designated by the train_input_folder and train_gt_folder in the 
 Paired images must be stored in each folder with the same name.
 
 #### Test data
-
+A trained network is applied for images in Test folder.
+The filenames are 
 
 ### Dependencies
 restworm relies on the following excellent packages:
