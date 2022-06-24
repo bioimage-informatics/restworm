@@ -4,7 +4,7 @@
 </p>
 
 The restworm restores low-quality images that were acquired by sub-optimal imaging settings.
-It is optimized for images of the nematode worm, C. elegans.
+It is optimized for images of the nematode worm, <I>C. elegans</I>.
 The used deep convolutional network is described in the network.py file.
 The training and test methods including the preparation of data are described below. 
 
