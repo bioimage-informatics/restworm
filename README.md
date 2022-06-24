@@ -1,6 +1,6 @@
 ## restworm
 <p>
-  <img height="140px" src="/Pictures/example.png">
+  <img height="140px" src="/Picture/example.png">
 </p>
 
 The restworm restores low-quality images that were acquired by sub-optimal imaging settings.
